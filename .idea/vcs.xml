@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MobileMamba" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MobileMamba/model/lib_mamba/kernels/selective_scan/apex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/transformer-cnn-emotion-recognition" vcs="Git" />
+  </component>
+</project>
